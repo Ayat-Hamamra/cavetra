@@ -1,0 +1,45 @@
+
+header{
+    background-image:url('../img/Blog/about.jpg');
+    background-size: cover;
+
+    width: 100%;
+    height: 600px;
+
+}
+.navbar{
+   
+background-color: #38323249;
+}
+.navbar .Blog{
+    color:#9fc4ce;
+    text-decoration: underline;
+}
+.btn_nav a{
+background-color:#fff;
+    transition-duration: 1s;
+}
+.btn_nav a:hover{
+    background-color:rgb(0,0,0,0.1);
+    color: #fff;
+}
+.nav-item a{
+    color: #fff;
+    transition:all 1s ;
+}
+.nav-item a:hover{
+text-decoration: underline;
+color:#9fc4ce;
+}
+.header-cntent h1{
+    font-family: initial;
+    font-size: 108px;
+   
+}
+.navscroll{
+    background-color:#252525;
+}
+.footer p,span,a{
+    color: #999999;
+    text-decoration: none;
+}
